@@ -1,0 +1,99 @@
+{
+  "user_id": 1,
+  "playlist_id": 73,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "علم النفس",
+  "hidden": false,
+  "media": [
+    {
+      "title": "دورة علم النفس | المبادئ العشرة لعلم النفس - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:44:40",
+      "link": "https://www.youtube.com/watch?v=5DxrjeWzVyE",
+      "transcript_txt": "5DxrjeWzVyE.txt",
+      "transcript_srt": "5DxrjeWzVyE.srt"
+    },
+    {
+      "title": "دورة علم النفس | المدارس والاتجاهات العلمية لعلم النفس - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:51:48",
+      "link": "https://www.youtube.com/watch?v=WItTUS7-hwc",
+      "transcript_txt": "WItTUS7-hwc.txt",
+      "transcript_srt": "WItTUS7-hwc.srt"
+    },
+    {
+      "title": "دورة علم النفس | أقسام علم النفس - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:58:04",
+      "link": "https://www.youtube.com/watch?v=WnABYRzfQ0o",
+      "transcript_txt": "WnABYRzfQ0o.txt",
+      "transcript_srt": "WnABYRzfQ0o.srt"
+    },
+    {
+      "title": "دورة علم النفس | أنواع علم النفس التطبيقي - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:52:21",
+      "link": "https://www.youtube.com/watch?v=zIPqnup7zFo",
+      "transcript_txt": "zIPqnup7zFo.txt",
+      "transcript_srt": "zIPqnup7zFo.srt"
+    },
+    {
+      "title": "دورة علم النفس | التأصيل الإسلامي للدراسات النفسية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:54:12",
+      "link": "https://www.youtube.com/watch?v=zQuwR6zAmeI",
+      "transcript_txt": "zQuwR6zAmeI.txt",
+      "transcript_srt": "zQuwR6zAmeI.srt"
+    },
+    {
+      "title": "دورة علم النفس | نظريات تقسيم أنماط الشخصيات - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:49:14",
+      "link": "https://www.youtube.com/watch?v=0GLmoShb9X4",
+      "transcript_txt": "0GLmoShb9X4.txt",
+      "transcript_srt": "0GLmoShb9X4.srt"
+    },
+    {
+      "title": "دورة علم النفس | أنماط الشخصيات - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:02:40",
+      "link": "https://www.youtube.com/watch?v=hyQTsUD9Wsw",
+      "transcript_txt": "hyQTsUD9Wsw.txt",
+      "transcript_srt": "hyQTsUD9Wsw.srt"
+    },
+    {
+      "title": "دورة علم النفس | الاضطرابات النفسية (1) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:48:06",
+      "link": "https://www.youtube.com/watch?v=6qgLoUSnKno",
+      "transcript_txt": "6qgLoUSnKno.txt",
+      "transcript_srt": "6qgLoUSnKno.srt"
+    },
+    {
+      "title": "دورة علم النفس | الاضطرابات النفسية (2) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:48:18",
+      "link": "https://www.youtube.com/watch?v=fTOQy54IbSQ",
+      "transcript_txt": "fTOQy54IbSQ.txt",
+      "transcript_srt": "fTOQy54IbSQ.srt"
+    },
+    {
+      "title": "دورة علم النفس | الاضطرابات النفسية (3) - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:26:21",
+      "link": "https://www.youtube.com/watch?v=ndhArfl0wrM",
+      "transcript_txt": "ndhArfl0wrM.txt",
+      "transcript_srt": "ndhArfl0wrM.srt"
+    },
+    {
+      "title": "دورة علم النفس | خرافات علم النفس - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:11:01",
+      "link": "https://www.youtube.com/watch?v=XLPxRuCNWTs",
+      "transcript_txt": "XLPxRuCNWTs.txt",
+      "transcript_srt": "XLPxRuCNWTs.srt"
+    }
+  ]
+}
